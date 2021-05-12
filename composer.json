@@ -1,17 +1,17 @@
 {
-    "name": "jeffreyhyer/azure-graph",
+    "name": "holbrookasphalt/azure-graph",
     "description": "Azure Active Directory Graph API",
     "keywords": ["azure", "active directory", "microsoft graph"],
     "license": "MIT",
-    "homepage": "https://github.com/jeffreyhyer/azure-graph",
+    "homepage": "https://github.com/holbrookasphalt/azure-graph",
     "support": {
-        "issues": "https://github.com/jeffreyhyer/azure-graph/issues",
-        "source": "https://github.com/jeffreyhyer/azure-graph"
+        "issues": "https://github.com/holbrookasphalt/azure-graph/issues",
+        "source": "https://github.com/holbrookasphalt/azure-graph"
     },
     "authors": [
         {
-            "name": "Jeffrey Hyer",
-            "email": "github-azure-graph@jeffreyhyer.com"
+            "name": "Holbrook Asphalt",
+            "email": "github-azure-graph@holbrookasphalt.com"
         }
     ],
     "require": {
